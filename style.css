@@ -120,18 +120,7 @@ body {
     width:0;
     height:0;
   }
-  .shadow {
-    position: absolute;
-    width: 330px;
-    height: 25px;
-    border-radius:50%;
-    background-color: rgba(0,0,0,0.3);
-    top:550px;
-    left:600px;
-    animation: scale 3s linear infinite;
-    z-index:-1;
-  }
- 
+
   @keyframes scale {
     0%, 100% {
       transform: scaleX(1);
