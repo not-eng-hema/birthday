@@ -199,3 +199,11 @@ body {
       opacity: 0.5;
     }
   }
+
+ .copy{
+    display: flex;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 45%;
+  }
