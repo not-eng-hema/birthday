@@ -120,7 +120,7 @@ body {
     width:0;
     height:0;
   }
-
+ 
   @keyframes scale {
     0%, 100% {
       transform: scaleX(1);
