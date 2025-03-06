@@ -19,11 +19,11 @@ body {
     position: relative;
     width: 300px;
     height:200px;
-    background-color: #f08080; 
+    background-color: #17d2b9; 
   }
   
   .envelope:before {
-    background-color: #f08080; 
+    background-color: #17d2b9; 
     content:"";
     position: absolute;
     width: 212px;
@@ -68,7 +68,7 @@ body {
   }
   
   .heart {
-    background-color: #d62828;
+    background-color: #17d2b9;
     display: inline-block;
     height: 30px;
     margin: 0 10px;
@@ -82,7 +82,7 @@ body {
   .heart:before,
   .heart:after {
     content: "";
-    background-color: #d62828;
+    background-color: #17d2b9;
     border-radius: 50%;
     height: 30px;
     position: absolute;
@@ -100,7 +100,7 @@ body {
   }
   .front {
     position: absolute;
-    border-right: 180px solid #f4978e;
+    border-right: 180px solid #17d2b9;
     border-top: 95px solid transparent;
     border-bottom: 100px solid transparent;
     left:120px;
@@ -113,7 +113,7 @@ body {
   .front:before {
     position: absolute;
     content:"";
-    border-left: 300px solid #f8ad9d;
+    border-left: 300px solid #17d2b9;
     border-top: 195px solid transparent;
     left:-120px;
     top:-95px;
@@ -200,7 +200,7 @@ body {
     }
   }
 
- .copy{
+  .copy{
     display: flex;
     text-align: center;
     position: fixed;
